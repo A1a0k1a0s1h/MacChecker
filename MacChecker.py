@@ -9,7 +9,7 @@ class MacAddressVendorChecker(QMainWindow):
 
     def initUI(self):
         self.setWindowTitle('MAC Address Vendor Checker')
-        self.setGeometry(100, 100, 400, 200)
+        self.setGeometry(100, 100, 440, 200)
 
         # MAC Address Input
         self.labelMac = QLabel('MAC Address:', self)
