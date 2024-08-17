@@ -8,7 +8,7 @@ class MacAddressVendorChecker(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('MAC Address Vendor Checker')
+        self.setWindowTitle('MacTrace')
         self.setGeometry(100, 100, 440, 200)
 
         # MAC Address Input
