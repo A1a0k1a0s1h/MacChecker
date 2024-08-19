@@ -15,7 +15,7 @@ This is a GUI based tool built on python for checking mac vendor of any device o
 ![macvendor](https://github.com/user-attachments/assets/6c9387a3-06c4-4fdd-881e-f8155ed22a5b)
 
 
-## Deployment
+## Installation
 
 To install and run this tool:
 
